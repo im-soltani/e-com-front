@@ -1,0 +1,2 @@
+export const FAVOR_ADD_ITEM = "FAVOR_ADD_ITEM";
+export const FAVOR_REMOVE_ITEM = "FAVOR_REMOVE_ITEM";
